@@ -2,9 +2,9 @@
 
 ## Things Ive learned in thhis project:
 
---Callback functions
---Promises
---Async/Await
+- Callback functions
+- Promises
+- Async/Await
 
 
 Sorry there are no actual pets
