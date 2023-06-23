@@ -1,6 +1,6 @@
 # cob5042668cfe587321011d84
 
-## Things Ive learned in thhis project:
+## Things I've learned in this project:
 
 - Callback functions
 - Promises
